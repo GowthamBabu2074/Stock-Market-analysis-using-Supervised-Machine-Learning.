@@ -3,10 +3,6 @@ Stock market or Share market is one of the most complicated and sophisticated wa
 EXISTING SYSTEM:
 Stock market as we know it is a very important trading platform which affects everyone at an individual and national level. The basic principle is quite simple Companies will list their shares in the companies as small commodities called Stocks. They do so in order to raise money for the firm. But we cannot predict the best fit for the future sales in a stock market so sometimes people loss their money and sometime they get more profits also.
 
-DISADVANTAGES OF EXISTING SYSTEM:
--	We cannot predict the future sales of the stack for exchanging and accuracy is also less in existing system.
--	We cannot predict the year to year, month to month, and day to day sales in the system.
-
 PROPOSED SYSTEM:
 In our model we can predict the future sales based on past predictions of year by year and month by month. Now if we try to graph the stock exchange price over the time period (say 6 months), is it really hard to predict the next outcome on the graph but by using our proposed system we can easily plot a graph and see the analysis. 
 
